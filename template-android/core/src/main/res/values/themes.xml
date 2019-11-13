@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.LightBlue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/lightBlueColorNormal</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="colorPrimary">@color/lightBlueColorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightBlueColorPrimaryDark</item>
+        <item name="colorAccent">@color/lightBlueColorAccent</item>
+        <item name="colorSurface">@color/lightBlueBackground</item>
+        <item name="colorControlNormal">@color/lightBlueColorNormal</item>
+
+        <!-- TODO: Remove line below to enable video visibility -->
+        <item name="android:background">@color/lightBlueBackground</item>
+
+        <item name="android:colorBackground">@color/lightBlueBackground</item>
+        <item name="android:colorForeground">@color/lightBlueForeground</item>
+        <item name="android:textColorPrimary">@color/lightBlueTextColorPrimary</item>
+        <item name="android:textColorPrimaryInverse">@color/lightBlueTextColorPrimaryInverse</item>
+        <item name="android:textColorSecondary">@color/lightBlueTextColorSecondary</item>
+        <item name="android:textColorLink">@color/lightBlueTextColorLink</item>
+        <item name="android:textColorLinkInverse">@color/lightBlueTextColorLinkInverse</item>
+        <item name="themeName">@string/theme_name_light_blue</item>
+        <item name="themeDescription">@string/theme_desc_light_blue</item>
+        <item name="dividerColor">@color/lightBlueDividerColor</item>
+        <item name="icon_foreground_color">@color/lightBlueIconForeground</item>
+        <item name="input_layout_text_edit_color">@color/lightBlueForeground</item>
+        <item name="input_layout_error_color">@color/lightBlueInputError</item>
+        <item name="input_layout_hint_active_color">@color/lightBlueActiveHint</item>
+        <item name="input_layout_hint_inactive_color">@color/lightBlueInactiveHint</item>
+    </style>
+</resources>

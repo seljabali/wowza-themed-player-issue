@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="LOGCAT_FORMAT_STRING" value="%1$s %4$c: %6$s" />
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>io.reactivex.rxjava2</group-id>
+        <name>rxandroid</name>
+        <version>2.1.1</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>okhttp</name>
+        <version>4.1.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.test</group-id>
+        <name>runner</name>
+        <version>1.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.core</group-id>
+        <name>core-ktx</name>
+        <version>1.2.0-alpha03</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.jetbrains.kotlin</group-id>
+        <name>kotlin-stdlib-jdk7</name>
+        <version>1.3.41</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.threetenabp</group-id>
+        <name>threetenabp</name>
+        <version>1.2.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>converter-gson</name>
+        <version>2.6.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.facebook.stetho</group-id>
+        <name>stetho</name>
+        <version>1.5.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>logging-interceptor</name>
+        <version>4.1.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>adapter-rxjava2</name>
+        <version>2.6.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.retrofit2</group-id>
+        <name>retrofit</name>
+        <version>2.6.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.rxbinding3</group-id>
+        <name>rxbinding-appcompat</name>
+        <version>3.0.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.reactivex.rxjava2</group-id>
+        <name>rxjava</name>
+        <version>2.2.11</version>
+        <repository>Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.facebook.stetho</group-id>
+        <name>stetho-okhttp3</name>
+        <version>1.5.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.lifecycle</group-id>
+        <name>lifecycle-extensions</name>
+        <version>2.2.0-alpha03</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.orhanobut</group-id>
+        <name>logger</name>
+        <version>2.2.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.android.material</group-id>
+        <name>material</name>
+        <version>1.1.0-alpha09</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.squareup.okhttp3</group-id>
+        <name>okhttp-urlconnection</name>
+        <version>4.1.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.constraintlayout</group-id>
+        <name>constraintlayout</name>
+        <version>2.0.0-beta2</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.rxbinding3</group-id>
+        <name>rxbinding-core</name>
+        <version>3.0.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.rxbinding3</group-id>
+        <name>rxbinding</name>
+        <version>3.0.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.rxbinding3</group-id>
+        <name>rxbinding-recyclerview</name>
+        <version>3.0.0</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.orhanobut</group-id>
+        <name>hawk</name>
+        <version>2.0.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>junit</group-id>
+        <name>junit</name>
+        <version>4.13-beta-3</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.appcompat</group-id>
+        <name>appcompat</name>
+        <version>1.1.0-rc01</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.preference</group-id>
+        <name>preference</name>
+        <version>1.1.0-rc01</version>
+        <repository>Google</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1565979259946</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94fbf417-f736-4492-92f9-38c35f8e0e98" name="Default Changelist" comment="g q">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_pause.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_play.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_stop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_volume.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/objectbox-models/default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/objectbox-models/default.json.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ObjectBox.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/TemplateApplication.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/TemplateApplication.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/models/BaseModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/models/GithubProfile.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/network/GithubService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/HomeActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/HomeActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/TestFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageItems.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_collections.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_paint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_widgets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_volume_mute.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_landing_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_page_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/core/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseDialogFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/ApiServiceBuilder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/ContentTypes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/RequestHeaders.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/ResponseHeaders.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/interceptors/RequestHeaderInterceptor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/interceptors/ResponseCookiesInterceptor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/AnyExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Apps.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/ArrayExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/BundleExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Clipboard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/DoubleExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/EditTextExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/FloatExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/GsonUtil.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/IntegerExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Keyboard.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/OsVersion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Permission.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/PhoneDevice.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/PhoneManufacturer.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Res.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/RxExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Service.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/StringExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/TextInputLayoutExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/TextViewExtension.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/ToastExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/UriExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Url.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/Formats.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/LocalDateTimeExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/LocalTimeExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/PresetDates.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/PresetTimes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/ZonedDateTimeExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/threeten/ZonedDateTimeTypeAdapterFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/anim/enter_from_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/anim/enter_from_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/anim/exit_to_left.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/anim/exit_to_right.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/color/hint_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/layout/toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/color_palette.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/dimens_preset.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/androidTest/java/com/seljabali/design/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/ThemePreviewFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/landingpage/DesignLandingPageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/landingpage/DesignLandingPageItems.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/landingpage/LandingPageAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/landingpage/LandingPageViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/themeselector/ThemeSampleView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/themeselector/ThemeSelectorFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/drawable/ic_palette.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/drawable/ic_styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/fragment_design_landing_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/fragment_theme_preview.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/fragment_theme_selector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/item_page_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/layout_palette_sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/layout_text_inverse_sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/layout_text_sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/layout_view_sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/layout/view_theme_sample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design/src/test/java/com/seljabali/design/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/androidTest/java/com/seljabali/pages/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/LoginFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/SettingsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/LandingPageAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/LandingPageViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/PagesLandingPageFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/PagesLandingPageItems.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/drawable/ic_map.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/drawable/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/layout/fragment_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/layout/fragment_pages_landing_page.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/layout/item_page_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/main/res/xml/sample_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/src/test/java/com/seljabali/pages/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/androidTest/java/com/seljabali/widgets/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/AnalogClock.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/AutoCompleteTextViewFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/BiometricPromptFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/ButtonFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/CheckBoxFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/ChronometerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/DatePickerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/ProgressBarFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/RadioButtonFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/SeekBarFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/SomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/StatusFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/TextClock.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/TimePickerFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/ToastFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/ToolbarFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/landing/WidgetItemView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/landing/Widgets.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/landing/WidgetsAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/landing/WidgetsLandingFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/analog_clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/autocomplete_textview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/checkbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/chronometer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/date_picker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/progress_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/radio_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/seek_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/status_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/text_clock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/time_picker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/toast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/drawable/tool_bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_abs_seek_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_analog_clock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_autocomplete_text_view.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_biometric_prompt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_catalogue_landing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_checkbox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_chronometer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_date_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_progress_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_radio_button.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_status.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_text_clock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_time_picker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_toast.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_toolbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/fragment_widgets_landing.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/layout/item_view_widget.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/mipmap/fingerprint.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/src/test/java/com/seljabali/widgets/ExampleUnitTest.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/res/layout/view_horizontal_divider.xml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="android-designer2" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="resourceFile" />
+        <option value="Kotlin Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>purp</find>
+      <find>actionBarSize</find>
+      <find>TypedValue</find>
+      <find>active</find>
+      <find>droid_pink</find>
+      <find>color</find>
+      <find>gra</find>
+      <find>gray</find>
+      <find>theme_desc_illini</find>
+      <find>cardCornerRadius</find>
+      <find>gray_87</find>
+      <find>dp</find>
+      <find>widget</find>
+      <find>android:textAppearance=</find>
+      <find>NOW.</find>
+      <find>}</find>
+      <find>LocalTime</find>
+      <find>tvOutput</find>
+      <find>createvi</find>
+      <find>package com.seljabali.theandroidwidgetcatalogue</find>
+      <find>bac</find>
+      <find>WeakReference</find>
+      <find>(activity as BaseActivity)</find>
+      <find>import com.seljabali.core.BaseActivity</find>
+      <find>tokyo</find>
+      <find>--&gt;</find>
+      <find>Design</find>
+      <find>view_horizontal_divider</find>
+      <find>horizontal_divider_height</find>
+      <find>backClickListenersList</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fun Bundle.put</replace>
+      <replace />
+      <replace>Io</replace>
+      <replace>fun ZonedDateTime.</replace>
+      <replace>Next</replace>
+      <replace>NOW().</replace>
+      <replace>lightBlue</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/widgets/proguard-rules.pro" />
+        <option value="$PROJECT_DIR$/pages/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageItems.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ic_collections.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/landingpage/LandingPageFragment.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/DesignLandingPageFragment.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/LandingPageViewHolder.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/LandingPageAdapter.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_landing_page.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/layout/fragment_pages_landing_page.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/DesignLandingPageItems.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/drawable/ic_map.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/drawable/ic_settings.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/PagesLandingPageItems.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/SettingsFragment.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/xml/sample_settings.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/LoginFragment.kt" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/layout/fragment_login.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages/landingpage/PagesLandingPageFragment.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/res/layout/toolbar.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/network/ApiServiceBuilder.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseFragment.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/KoinExtensions.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/injection/NetworkModule.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Service.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/OsVersion.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Keyboard.kt" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Res.kt" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/core/build.gradle" />
+        <option value="$PROJECT_DIR$/core/src/main/res/color/hint_color.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ObjectBox.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/TemplateApplication.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/dimens_preset.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/core/src/main/res/values/themes.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/HomeActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="23" />
+    <option name="width" value="1416" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="template-android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="template-android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="seljabali" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="seljabali" type="462c0819:PsiDirectoryNode" />
+              <item name="templateapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="seljabali" type="462c0819:PsiDirectoryNode" />
+              <item name="templateapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="menu" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="ic_launcher" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
+              <item name="ic_launcher_round" type="c431d0b8:AndroidResGroupNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="core" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="template-android" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.seljabali.templateapplication" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-09-03T18:10:54.630Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="/Applications/AndroidSDK" />
+    <property name="device.picker.selection" value="9887e04837584e5842" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1563840493019" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.seljabali.pages" />
+      <recent name="com.seljabali.design.themeselector" />
+      <recent name="com.seljabali.design.landingpage" />
+      <recent name="com.seljabali.design" />
+      <recent name="com.seljabali.templateapplication.ui.landingpage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/pages/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/pages/src/main/java/com/seljabali/pages" />
+      <recent name="$PROJECT_DIR$/design/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/design/src/main/java/com/seljabali/design/landingpage" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.seljabali.pages" />
+      <recent name="com.seljabali.templateapplication.ui" />
+      <recent name="com.seljabali.templateapplication.utilities.threeten" />
+      <recent name="com.seljabali.templateapplication.models" />
+      <recent name="com.seljabali.templateapplication.network" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/src/main/res/xml" />
+      <recent name="$PROJECT_DIR$/core/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/core/src/main/res/values" />
+      <recent name="$PROJECT_DIR$/design/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/landing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94fbf417-f736-4492-92f9-38c35f8e0e98" name="Default Changelist" comment="" />
+      <created>1559250895629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559250895629</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="6" y="23" width="1416" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" sideWeight="0.5006916" side_tool="true" weight="0.22492625" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49930844" visible="true" weight="0.3617176" />
+      <window_info id="Resources Explorer" order="7" weight="0.3298969" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Debug" order="0" weight="0.32109228" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49926254" weight="0.5254777" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" sideWeight="0.4988645" visible="true" weight="0.58280253" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5011355" side_tool="true" weight="0.58380413" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49841672" weight="0.60828024" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" weight="0.32956687" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32956687" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32956687" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32956687" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.32751092" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Captures" order="0" sideWeight="0.5006916" side_tool="true" weight="0.22492625" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49930844" visible="true" weight="0.39088905" />
+      <window_info id="Resources Explorer" order="7" weight="0.3298969" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Debug" order="0" weight="0.32109228" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49926254" weight="0.52636534" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4988645" weight="0.58380413" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5011355" side_tool="true" weight="0.58380413" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49841672" weight="0.29849342" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" weight="0.32956687" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32956687" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32956687" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32956687" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Preview" order="5" weight="0.327818" />
+    </layout-to-restore>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>arguments.keySet()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arguments.getSerializable(&quot;name&quot;)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arguments</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>time.format()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>time.minute</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>time.hour</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/DatePickerFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/widgets/src/main/java/com/seljabali/widgets/SeekBarFragment.kt" />
+    <entry file="file://$PROJECT_DIR$/widgets/src/main/res/layout/fragment_abs_seek_bar.xml" />
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Service.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Keyboard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/OsVersion.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="67" lean-forward="true" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/PhoneDevice.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="30" column="93" selection-start-line="30" selection-start-column="93" selection-end-line="30" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/AnyExtensions.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/App.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Apps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/utilities/Res.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/color/hint_color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/layout/toolbar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/attr.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/com/seljabali/core/BaseActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#28#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/injection/NetworkModule.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="44" column="37" lean-forward="true" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/models/BaseModel.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/models/GithubProfile.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ObjectBox.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/TestFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="e#46#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/TemplateApplication.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_collections.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/sample_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_volume.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_pause.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_stop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/color_palette.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/dimens_preset.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/values/themes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/integers.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/floats.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/attr.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/arrays.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" column="37" lean-forward="true" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="e#1370#1393#0" expanded="true" />
+            <element signature="e#1432#1455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/seljabali/templateapplication/ui/HomeActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+          <folding>
+            <element signature="e#46#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/res/layout/view_horizontal_divider.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+  </component>
+</project>

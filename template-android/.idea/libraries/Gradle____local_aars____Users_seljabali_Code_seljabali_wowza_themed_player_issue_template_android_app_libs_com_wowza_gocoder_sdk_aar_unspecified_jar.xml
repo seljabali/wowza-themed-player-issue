@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/seljabali/Code/seljabali/wowza-themed-player-issue/template-android/app/libs/com.wowza.gocoder.sdk.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25545a14e44364bfdd4f7ed0e7165bff/com.wowza.gocoder.sdk/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25545a14e44364bfdd4f7ed0e7165bff/com.wowza.gocoder.sdk/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

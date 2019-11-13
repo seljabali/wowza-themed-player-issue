@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Template Application</string>
+
+    <!-- General Errors -->
+    <string name="networking_error">Networking error has occurred.</string>
+
+</resources>
